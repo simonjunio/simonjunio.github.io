@@ -1,2 +1,2 @@
-# simonjunio.github.io
+# simonjunio.github.commit.io
 Calculator app
